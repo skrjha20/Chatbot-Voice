@@ -1,0 +1,649 @@
+
+Query:hi
+Bot:Hello there.
+Query:how are you
+Bot:My logic and cognitive functions are normal.
+Query:planned production
+Bot:Unable to identify product name, please specify product name
+Query:crude oil
+Bot:Unable to identify the required day for query
+Query:planned production of crude oil
+Bot:Unable to identify the required day for query
+Query:hi
+Bot:Hello there.
+Query:planned production of crude oil
+Bot:Unable to identify the required day for query
+Query:hello
+Bot:Hi there!
+Query:planned production of crude oil
+Bot:Unable to identify the required day for query
+Query:yesterday
+Bot:The planned production of crude oil was 3307000 Barrels on Jun 12 2019
+Query:hi
+Bot:Hello there.
+Query:hi
+Bot:Hello there.
+Query:how are you
+Bot:I am functioning within normal parameters.
+Query:what is the time now
+Bot: Thu Jun 13 15:07:21 2019
+Query:planned production of crude oil yesterday
+Bot:The planned production of crude oil was 3307000 Barrels on Jun 12 2019
+Query:planned production of crude oil 12 may 2019
+Bot:The planned production of crude oil was 3210000 Barrels on May 12 2019
+Query:actual production of crude oil 12 may 2019
+Bot:The actual production of crude oil was 3176760 Barrels on May 12 2019
+Query:what is gradient descent
+Bot:Gradient descent is a first order iterative optimization algorithm for finding the minimum of a function
+Query:actual production of
+Bot:Unable to identify product name, please specify product name
+Query:crude oil
+Bot:Unable to identify the required day for query
+Query:yesterday
+Bot:The actual production of crude oil was 3208924 Barrels on Jun 12 2019
+Query:what is your name
+Bot:My name is Shamsa.
+Query:whats your name
+Bot:More videos
+Query:why
+Bot:Because  programmed me for it.
+Query:good
+Bot:Alright then.
+Query:thanks
+Bot:Don't mention it.
+Query:hi
+Bot:Hello there.
+Query:hi
+Bot:Hello there.
+Query:hi
+Bot:Hello there.
+Query:hi
+Bot:Hello there.
+Query:how are you
+Bot:I am fine, thank you.
+Query:what is the time now
+Bot: Sun Jun 16 09:12:27 2019
+Query:planned production of crude oil yesterday
+Bot:The planned production of crude oil was 3290000 Barrels on Jun 15 2019
+Query:actual production of lean gas yesterday
+Bot:The actual production of lean gas was 5153 Standard Cubic Feet on Jun 15 2019
+Query:actual production of lean gas yesterday
+Bot:The actual production of lean gas was 5153 Standard Cubic Feet on Jun 15 2019
+Query:planned production of salessourgas yesterday
+Bot:Unable to identify product name, please specify product name
+Query:actual production of salessourgas yesterday
+Bot:Unable to identify product name, please specify product name
+Query:ok
+Bot:It's all good.
+Query:planned production of lean gas yesterday
+Bot:The planned production of lean gas was 0 Standard Cubic Feet on Jun 15 2019
+Query:actual production of lean gas yesterday
+Bot:The actual production of lean gas was 5153 Standard Cubic Feet on Jun 15 2019
+Query:planned production of gasoil yesterday
+Bot:The planned production of gasoil was 31150 Tons on Jun 15 2019
+Query:actual production of gasoil yesterday
+Bot:The actual production of gasoil was 29077 Tons on Jun 15 2019
+Query:planned production of liquid sulphur yesterday
+Bot:We do not have data for the query, please ask question again
+Query:planned production of liquid sulphur yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of liquid sulphur yesterday
+Bot:We do not have data for the query, please ask question again
+Query:planned production of sales gas yesterday
+Bot:The planned production of sales gas was 4200 Standard Cubic Feet on Jun 15 2019
+Query:actual production of sales gas yesterday
+Bot:The actual production of sales gas was 4541 Standard Cubic Feet on Jun 15 2019
+Query:actual production of fueloil yesterday
+Bot:The actual production of fueloil was 142 Tons on Jun 15 2019
+Query:planned production of fueloil yesterday
+Bot:The planned production of fueloil was 1523 Tons on Jun 15 2019
+Query:planned production of propylene yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of propylene yesterday
+Bot:The actual production of propylene was 4341 Tons on Jun 15 2019
+Query:planned production of fsopr yesterday
+Bot:The planned production of fsopr was 3531000 Barrels on Jun 15 2019
+Query:actual production of fsopr yesterday
+Bot:We do not have data for the query, please ask question again
+Query:planned production of raw gas yesterday
+Bot:The planned production of raw gas was 10258 Standard Cubic Feet on Jun 15 2019
+Query:actual production of raw gas yesterday
+Bot:The actual production of raw gas was 10414 Standard Cubic Feet on Jun 15 2019
+Query:planned production of c5 lng yesterday
+Bot:The planned production of c5 lng was 1328 Tons on Jun 15 2019
+Query:actual production of c5 lng yesterday
+Bot:The actual production of c5 lng was 1587 Tons on Jun 15 2019
+Query:planned production of polyethylene yesterday
+Bot:The planned production of polyethylene was 6676 Tons on Jun 15 2019
+Query:actual production of polyethylene yesterday
+Bot:The actual production of polyethylene was 7017 Tons on Jun 15 2019
+Query:planned production of das yesterday
+Bot:We do not have data for the query, please ask question again
+Query:planned production of naphtha yesterday
+Bot:The planned production of naphtha was 28187 Tons on Jun 15 2019
+Query:actual production of naphtha yesterday
+Bot:The actual production of naphtha was 26749 Tons on Jun 15 2019
+Query:planned production of urea yesterday
+Bot:The planned production of urea was 0 Tons on Jun 15 2019
+Query:actual production of urea yesterday
+Bot:The actual production of urea was 3049 Tons on Jun 15 2019
+Query:planned production of granulated sulphur yesterday
+Bot:The planned production of granulated sulphur was 19795 Tons on Jun 15 2019
+Query:planned production of granulated sulphur yesterday
+Bot:The planned production of granulated sulphur was 19795 Tons on Jun 15 2019
+Query:planned production of sulphur yesterday
+Bot:The planned production of sulphur was 19795 Tons on Jun 15 2019
+Query:actual production of granulated sulphur yesterday
+Bot:The actual production of granulated sulphur was 17970 Tons on Jun 15 2019
+Query:actual production of sulphur yesterday
+Bot:The actual production of sulphur was 17970 Tons on Jun 15 2019
+Query:actual production of sales agp yesterday
+Bot:The actual production of sales agp was 7073 Standard Cubic Feet on Jun 15 2019
+Query:planned production of sales agp yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of salesagp yesterday
+Bot:The actual production of salesagp was 7073 Standard Cubic Feet on Jun 15 2019
+Query:planned production of jet a1 yesterday
+Bot:The planned production of jet a1 was 31912 Tons on Jun 15 2019
+Query:actual production of jet a1 yesterday
+Bot:The actual production of jet a1 was 27594 Tons on Jun 15 2019
+Query:planned production of procleaninjection yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of procleaninjection yesterday
+Bot:The actual production of procleaninjection was 1336 Standard Cubic Feet on Jun 15 2019
+Query:planned production of c2 agp yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of c2 agp yesterday
+Bot:The actual production of c2 agp was 17927 Tons on Jun 15 2019
+Query:planned production of lpg yesterday
+Bot:Unable to identify product name, please specify product name
+Query:actual production of lpg yesterday
+Bot:Unable to identify product name, please specify product name
+Query:actual production of lpg yesterday
+Bot:Unable to identify product name, please specify product name
+Query:planned production of lpg yesterday
+Bot:The planned production of lpg was 510 Tons on Jun 15 2019
+Query:actual production of lpg yesterday
+Bot:The actual production of lpg was 1021 Tons on Jun 15 2019
+Query:planned production of ethylene yesterday
+Bot:The planned production of ethylene was 10360 Tons on Jun 15 2019
+Query:actual production of ethylene yesterday
+Bot:The actual production of ethylene was 10366 Tons on Jun 15 2019
+Query:planned production of polypropylene yesterday
+Bot:The planned production of polypropylene was 4655 Tons on Jun 15 2019
+Query:actual production of polypropylene yesterday
+Bot:The actual production of polypropylene was 3951 Tons on Jun 15 2019
+Query:planned production of ethane yesterday
+Bot:We do not have data for the query, please ask question again
+Query:planned production of c3 lng yesterday
+Bot:The planned production of c3 lng was 1988 Tons on Jun 15 2019
+Query:actual production of c3 lng yesterday
+Bot:The actual production of c3 lng was 1961 Tons on Jun 15 2019
+Query:planned production of condensate yesterday
+Bot:The planned production of condensate was 202994 Barrels on Jun 15 2019
+Query:actual production of condensate yesterday
+Bot:The actual production of condensate was 222160 Barrels on Jun 15 2019
+Query:planned production of injection yesterday
+Bot:The planned production of injection was 3473 Standard Cubic Feet on Jun 15 2019
+Query:actual production of injection yesterday
+Bot:The actual production of injection was 3487 Standard Cubic Feet on Jun 15 2019
+Query:planned production of c3 agp yesterday
+Bot:The planned production of c3 agp was 12170 Tons on Jun 15 2019
+Query:actual production of c3 agp yesterday
+Bot:The actual production of c3 agp was 13868 Tons on Jun 15 2019
+Query:planned production of c4 agp yesterday
+Bot:The planned production of c4 agp was 10780 Tons on Jun 15 2019
+Query:actual production of c4 agp yesterday
+Bot:The actual production of c4 agp was 12768 Tons on Jun 15 2019
+Query:planned production of gasoline 919598 yesterday
+Bot:The planned production of gasoline was 12923 Tons on Jun 15 2019
+Query:actual production of gasoline 919598 yesterday
+Bot:The actual production of gasoline was 15002 Tons on Jun 15 2019
+Query:actual production of gasoline yesterday
+Bot:The actual production of gasoline was 15002 Tons on Jun 15 2019
+Query:planned production of gasoline yesterday
+Bot:The planned production of gasoline was 12923 Tons on Jun 15 2019
+Query:planned production of sales lng yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of sales lng yesterday
+Bot:The actual production of sales lng was 1142 Tons on Jun 15 2019
+Query:planned production of lng yesterday
+Bot:The planned production of lng was 17259 Tons on Jun 15 2019
+Query:actual production of lng yesterday
+Bot:The actual production of lng was 17339 Tons on Jun 15 2019
+Query:planned production of c4 lng yesterday
+Bot:The planned production of c4 lng was 1505 Tons on Jun 15 2019
+Query:actual production of c4 lng yesterday
+Bot:The actual production of c4 lng was 1482 Tons on Jun 15 2019
+Query:planned production of murban yesterday
+Bot:The planned production of murban was 3290000 Barrels on Jun 15 2019
+Query:actual production of murban yesterday
+Bot:The actual production of murban was 3282864 Barrels on Jun 15 2019
+Query:planned production of sales lng yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of sales lng yesterday
+Bot:The actual production of sales lng was 1142 Tons on Jun 15 2019
+Query:actual production of saleslng yesterday
+Bot:The actual production of saleslng was 1142 Tons on Jun 15 2019
+Query:planned production of saleslng yesterday
+Bot:We do not have data for the query, please ask question again
+Query:planned production of leanfertilizer yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of leanfertilizer yesterday
+Bot:The actual production of leanfertilizer was 143 Standard Cubic Feet on Jun 15 2019
+Query:planned production of lean fertilizer yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of lean fertilizer yesterday
+Bot:The actual production of lean fertilizer was 143 Standard Cubic Feet on Jun 15 2019
+Query:actual production of fertilizer yesterday
+Bot:The actual production of fertilizer was 143 Standard Cubic Feet on Jun 15 2019
+Query:actual production of leaninjection yesterday
+Bot:The actual production of leaninjection was 2150 Standard Cubic Feet on Jun 15 2019
+Query:actual production of lean injection yesterday
+Bot:The actual production of lean injection was 2150 Standard Cubic Feet on Jun 15 2019
+Query:planned production of lean injection yesterday
+Bot:We do not have data for the query, please ask question again
+Query:planned production of leaninjection yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of ethylene yesterday
+Bot:The actual production of ethylene was 10366 Tons on Jun 15 2019
+Query:planned production of ethylene yesterday
+Bot:The planned production of ethylene was 10360 Tons on Jun 15 2019
+Query:hello
+Bot:Hi there!
+Query:how are you
+Bot:I am fine, thank you.
+Query:what is the time now
+Bot: Sun Jun 16 14:04:22 2019
+Query:what is a plant production of crude oil today
+Bot:Unable to identify actual or planned, please specify again
+Query:planned
+Bot:We do not have data for the query, please ask question again
+Query:what is a planned production of crude oil yesterday
+Bot:The planned production of crude oil was 3290000 Barrels on Jun 15 2019
+Query:what is a planned production of crude oil between 1 may 2019 to 15 june 2019
+Bot:/static/graph/Murban_plot_20190616-140640.jpg
+Query:actual production of leansalesgas yesterday
+Bot:The actual production of leansalesgas was 4073 Standard Cubic Feet on Jun 15 2019
+Query:actual production of lean sales gas yesterday
+Bot:The actual production of lean sales gas was 4073 Standard Cubic Feet on Jun 15 2019
+Query:planned production of leansalesgas yesterday
+Bot:We do not have data for the query, please ask question again
+Query:actual production of polyethylene yesterday
+Bot:The actual production of polyethylene was 7017 Tons on Jun 15 2019
+Query:planned production of polyethylene yesterday
+Bot:The planned production of polyethylene was 6676 Tons on Jun 15 2019
+Query:actual production of c5 plus agp yesterday
+Bot:The actual production of c5 plus agp was 10746 Tons on Jun 15 2019
+Query:planned production of c5 plus agp yesterday
+Bot:The planned production of c5 plus agp was 8747 Tons on Jun 15 2019
+Query:planned production of c5+ agp yesterday
+Bot:The planned production of c5+ agp was 8747 Tons on Jun 15 2019
+Query:planned production of c5+ agp yesterday
+Bot:The planned production of c5+ agp was 8747 Tons on Jun 15 2019
+Query:planned production of sulphur yesterday
+Bot:The planned production of sulphur was 19795 Tons on Jun 15 2019
+Query:actual production of sulphur yesterday
+Bot:The actual production of sulphur was 17970 Tons on Jun 15 2019
+Query:hello how are you
+Bot:I am fine thank you how are you?
+Query:hi
+Bot:Hello there.
+Query:hello
+Bot:Hi there!
+Query:how are you today
+Bot:Unable to identify product name, please specify product name
+Query:sulfure
+Bot:En chimie un sulfure est un compos chimique o le soufre avec un degr d oxydation de II est combin un autre l ment chimique ou un de ses radicaux
+Query:sulfur
+Bot: S 16 
+Query:what
+Bot:No problem.
+Query:how is the ceo of adnoc
+Bot:the ceo of adnoc  is the same as ever.
+Query:wat do you mean
+Bot:, "No problem." What did I mean by it?
+Query:what do you mean
+Bot:, I mean exactly what I said.
+Query:what is crude production today
+Bot:Unable to identify actual or planned, please specify again
+Query:planned
+Bot:We do not have data for the query, please ask question again
+Query:crude oil production today
+Bot:Unable to identify actual or planned, please specify again
+Query:actual
+Bot:We do not have data for the query, please ask question again
+Query:yesterday
+Bot:Unable to identify product name, please specify product name
+Query:crude oil
+Bot:Unable to identify actual or planned, please specify again
+Query:actual
+Bot:The actual production of crude oil was 3282864 Barrels on Jun 15 2019
+Query:repeat please
+Bot:"please "
+Query:repeat
+Bot:", I mean exactly what I said." .
+Query:the actual production of crude oil
+Bot:Unable to identify the required day for query
+Query:yesterday
+Bot:The actual production of crude oil was 3282864 Barrels on Jun 15 2019
+Query:the actual production of crude oil
+Bot:Unable to identify the required day for query
+Query:yesterday
+Bot:The actual production of crude oil was 3282864 Barrels on Jun 15 2019
+Query:the actual production of gpl yesterday
+Bot:Unable to identify product name, please specify product name
+Query:lpg
+Bot:The actual production of lpg was 1021 Tons on Jun 15 2019
+Query:hi
+Bot:Hello there.
+Query:hi
+Bot:Hello there.
+Query:hi
+Bot:Hello there.
+Query:hi
+Bot:Hello there.
+Query:how are you
+Bot:I'm doing fine thanks how are you?
+Query:hello
+Bot:Hi there!
+Query:hello fatehpura woh jo bol rahe the sab ho raha hai
+Bot:Hello there. KATA INI BELUM SAYA PELAJARI
+Query:aaj aa raha hai dekhe ab recording hoga
+Bot:Superhit song Yaad Aa Raha Hai from the movie Disco Dancer
+Query:block karna hai kya love karna hai aur dekhe chalne laga thik hai jab hum ip address daal rahe hain wahan par
+Bot:Hello sir aap kaise hain theek hai aur bataiye kya ho raha hai Aur ab Aap 
+Query:katrina wala love karnataka gaya ka
+Bot:Subscribe Now https goo
+Query:computer hello
+Bot:What kind of computer science interests you?
+Query:what do you do
+Bot:I talk to people on the web.
+Query:hello
+Bot:Hi there!
+Query:hi
+Bot:Hello there.
+Query:hi
+Bot:Hello there.
+Query:hi
+Bot:Hello there.
+Query:hi
+Bot:Hello there.
+Query:hello
+Bot:Hi there!
+Query:how r u
+Bot:Everything is running smoothly.
+Query:how are you
+Bot:I am doing very well. How are you  ?
+Query:how are you
+Bot:Fair to partly cloudy.
+Query:hi
+Bot:Hello there.
+Query:what is your name
+Bot:My name is Shamsa.
+Query:what is your name
+Bot:My name is Shamsa.
+Query:what is your name
+Bot:My name is Shamsa.
+Query:what do you do
+Bot:I talk to people on the web.
+Query:what is the plant production of crude oil yesterday
+Bot:Unable to identify actual or planned, please specify again
+Query:what is the plant production of crude oil yesterday
+Bot:Unable to identify actual or planned, please specify again
+Query:what is the actual production of crude oil yesterday
+Bot:We do not have data for the query, please ask question again
+Query:what is the actual production of crude oil yesterday
+Bot:We do not have data for the query, please ask question again
+Query:what is the actual production of crude oil on 25 november 2018
+Bot:The actual production of crude oil was 3513448 Barrels on Nov 25 2018
+Query:google sahi
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:date
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:broken nahin opening hai
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:thik hai
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:alto projector lamp
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:headache
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:super matka satta
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:question
+Bot:Of course. Ask me anything.
+Query:bypass
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:strip time
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:convert datetime object
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:deteriorated listing mein things go update time convert karenge
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:datetime object equal to datetime not datetime
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:hot strip strp
+Bot:That sounds better than cold strip strp.
+Query:bracket updated
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:atomic number
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:microtek recharge karna padega
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:1058 time se nikalta hai usko kaise nikale
+Bot:10 times 10 = 100.
+Query:question kaise yahan par nibandh
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:chalu ho gaya hai
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:jane ke liye apne chalta rahega program chal raha hai
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:what is your name
+Bot:My name is Shamsa.
+Query:how are you
+Bot:I am fine, thank you.
+Query:how are you
+Bot:I am doing very well. How are you  ?
+Query:what is your name
+Bot:My name is Shamsa.
+Query:kya bolenge
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:hello
+Bot:Hi there!
+Query:hello
+Bot:Hi there!
+Query:hello
+Bot:Hi there!
+Query:how are you
+Bot:I am functioning within normal parameters.
+Query:say something
+Bot:"something"
+Query:something about jeene raha hai
+Bot:What?
+Query:balwan nahi padega exit daalte hain change karte hain
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:samsung
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:hello
+Bot:Hi there!
+Query:hello
+Bot:Hi there!
+Query:what is the time now
+Bot: Mon Jul  1 12:09:57 2019
+Query:production of crude oil yesterday
+Bot:Unable to identify actual or planned, please specify again
+Query:hi
+Bot:Hello there.
+Query:what is the time now
+Bot: Mon Jul  1 13:05:02 2019
+Query:qatar
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:hello
+Bot:Hi there!
+Query:what is the time now
+Bot: Mon Jul  1 13:06:03 2019
+Query:plant production of
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:nike yasmeen
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:hello
+Bot:Hi there!
+Query:plant production of
+Bot:Unable to identify product name, please specify product name
+Query:solo kya hai
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:plant production of
+Bot:Unable to identify product name, please specify product name
+Query:wild
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:plant production of crude oil
+Bot:Unable to identify the required day for query
+Query:19
+Bot:Unable to identify actual or planned, please specify again
+Query:actual
+Bot:We do not have data for the query, please ask question again
+Query:dekh rehana 19 le raha hai 19 jan 2000
+Bot:Unable to identify product name, please specify product name
+Query:crude oil
+Bot:Unable to identify actual or planned, please specify again
+Query:actual
+Bot:/static/graph/Murban_plot_20190701-130928.jpg
+Query:42 le lega
+Bot:Unable to identify product name, please specify product name
+Query:plant production of crude oil yesterday
+Bot:Unable to identify actual or planned, please specify again
+Query:actual
+Bot:The actual production of crude oil was 2246988 Barrels on Jun 30 2019
+Query:4242
+Bot:Unable to identify product name, please specify product name
+Query:ab minable karna padega
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:hello
+Bot:Hi there!
+Query:plant production of crude oil study
+Bot:Unable to identify the required day for query
+Query:yesterday
+Bot:Unable to identify actual or planned, please specify again
+Query:nahi lag raha
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:khana banana
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:agra plant kevalamana upar mein dekhta hai
+Bot:Unable to identify product name, please specify product name
+Query:hello
+Bot:Hi there!
+Query:plant production of crude oil yesterday
+Bot:The planned production of crude oil was 3275000 Barrels on Jun 30 2019
+Query:actual production of crude oil yesterday
+Bot:The actual production of crude oil was 2246988 Barrels on Jun 30 2019
+Query:nice guitar ayenge
+Bot:Thank you for your kindness.
+Query:naveen broken question kya karna hai isme hello
+Bot:KATA INI BELUM SAYA PELAJARI
+Query:ya pahle fix karne dijiye
+Bot:Hurrah! KATA INI BELUM SAYA PELAJARI
+Query:hello
+Bot:Hi there!
+Query:plant production of crude oil
+Bot:Unable to identify the required day for query
+Query:15 january 2019
+Bot:The planned production of crude oil was 3222000 Barrels on Jan 15 2019
+Query:hello
+Bot:Hi there!
+Query:kya
+Bot:Sorry, I don't have answer to this question
+Query:dracula check karle kaam kar raha hai aur hai kaam ho raha hai
+Bot:Sorry, I don't have answer to this question
+Query:hello
+Bot:Hi there!
+Query:hello how are you
+Bot:I am fine thank you how are you?
+Query:good
+Bot:What do you really want to talk about?
+Query:plant production of crude oil
+Bot:Unable to identify the required day for query
+Query:19
+Bot:We do not have data for the query, please ask question again
+Query:today
+Bot:Unable to identify product name, please specify product name
+Query:nrega
+Bot:Sorry, I don't have answer to this question
+Query:agar
+Bot:Sorry, I don't have answer to this question
+Query:ghar jayega abhi
+Bot:Sorry, I don't have answer to this question
+Query:music
+Bot:MUSIC  is the universal language of all mankind.
+Query:free music
+Bot:Define free.
+Query:music
+Bot:MUSIC  is the universal language of all mankind.
+Query:whats your location
+Bot:Sorry, I don't have answer to this question
+Query:weather what is your location
+Bot:Sorry, I don't have answer to this question
+Query:what is the location
+Bot:Sorry, I don't have answer to this question
+Query:location related question i letter
+Bot:Sorry, I don't have answer to this question
+Query:dekhega to whatsapp theatre chal karta hai
+Bot:Sorry, I don't have answer to this question
+Query:dilwale
+Bot:Sorry, I don't have answer to this question
+Query:sitar
+Bot:Sorry, I don't have answer to this question
+Query:dont become loco pilot
+Bot:Sorry, I don't have answer to this question
+Query:mujhe abhi ja
+Bot:Sorry, I don't have answer to this question
+Query:jo hum logon ne deta hai ghar par kaise player chahiye
+Bot:Sorry, I don't have answer to this question
+Query:what is the plant production of crude oil yesterday
+Bot:We do not have data for the query, please ask question again
+Query:sc to kamakhya what time is it
+Bot:Sorry, I don't have answer to this question
+Query:what is your name
+Bot:My name is Shamsa.
+Query:what do you do
+Bot:I talk to people on the web.
+Query:fruit production
+Bot:Sorry, I don't have answer to this question
+Query:what is the crude production plant yesterday
+Bot:We do not have data for the query, please ask question again
+Query:what is the crude oil production plan yesterday
+Bot:We do not have data for the query, please ask question again
+Query:production
+Bot:Sorry, I don't have answer to this question
+Query:production
+Bot:Sorry, I don't have answer to this question
+Query:why you are not essay
+Bot:programmed me for   are not essay  .
+Query:what is the current crude oil production
+Bot:Unable to identify the required day for query
+Query:yesterday
+Bot:Unable to identify actual or planned, please specify again
+Query:actual
+Bot:The actual production of crude oil was 3149192 Barrels on Jul 01 2019
+Query:president of united state
+Bot:Sorry, I don't have answer to this question
+Query:problem is
+Bot:Sorry, I don't have answer to this question
+Query:hello
+Bot:Hi there!
+Query:video
+Bot:Sorry, I don't have answer to this question
+Query:hello hello hello
+Bot:Hello there. Hello there. Hi there!
+Query:hello
+Bot:Hi there!
+Query:what is the time now
+Bot: Wed Jul  3 12:39:40 2019
+Query:karna padta hai what do you do
+Bot:Sorry, I don't have answer to this question
+Query:what do you do you say something bol raha hai say something nahi bol raha hai vah irritating bhi actually
+Bot:My favorite activities are computer programming and surfing the web.
+Query:what do you do
+Bot:I talk to people on the web.
+Query:what is the time now
+Bot: Wed Jul  3 13:32:00 2019

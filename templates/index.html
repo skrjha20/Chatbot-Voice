@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Shamsa</title>
+		<meta http-equiv="Cache-control" content="no-cache">
+        <link rel="stylesheet" type="text/css" href="static/css/style.css">
+		<link rel="stylesheet" type="text/css" href="static/css/images-grid.css">
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+		<link rel="shortcut icon" href="static/Images/favicon.ico">
+    </head>
+	
+    <body>      
+        <div class="headerBar">
+                <div class="user-photo"><img src="static/Images/ana.JPG"></div>
+                <p class="title">Shamsa</p>
+        </div>
+        
+        <div class="chatbox">
+            <div class="chatlogs">               
+                <div class="chat friend" id="loadingGif" style="display: none;">
+                    <div class="user-photo"><img src="static/Images/ana.JPG"></div>
+                    <div class="gif"><img src="static/Images/loading.gif"></div>
+                </div>
+            </div>            
+        </div>
+		
+        <div class="chat-form">
+            <div id="inputDiv">
+                <div id="buttonDiv"></div>
+                <textarea id="inputTextArea" class="input" spellcheck="true" placeholder="Message" rows="1" data-min-rows='1' autofocus></textarea>
+            </div>
+        
+			<div id="chat-form-buttons">
+                <input type ="image"id="rec" src="static/Images/microphone.png">
+                <input type="image" src="static/Images/keyboard.png" id="switchInputType"/>
+            </div>
+        </div>
+
+        <script type="text/javascript" src="static/js/index.js"></script>
+		<script type="text/javascript" src="static/js/images-grid.js"></script>
+    </body>
+
+</html>

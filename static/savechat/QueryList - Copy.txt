@@ -1,0 +1,49 @@
+
+Query:what is the actual production of lean gas yesterday
+Bot:The actual production of lean gas was 4946 Standard Cubic Feet on May 27 2019
+Query:what is the actual production of lean gas between 20 may 2018 and 20 may 2019
+Bot:/static/graph/Murban_plot_20190528-125953.jpg
+Query:hi
+Bot:Hello there.
+Query:how are you
+Bot:My logic and cognitive functions are normal.
+Query:planned production of crude oil
+Bot:Unable to identify the required day for query
+Query:planned production of crude oil yesterday
+Bot:The planned production of crude oil was 3200000 Barrels on May 27 2019
+Query:what is the actual production of lean gas between 20 may 2018 and 20 may 2019
+Bot:/static/graph/Murban_plot_20190528-130726.jpg
+Query:what is the actual production of c3 agp between 20 may 2018 and 20 may 2019
+Bot:/static/graph/Murban_plot_20190528-130809.jpg
+Query:what is the actual production of lean gas yesterday
+Bot:The actual production of lean gas was 4946 Standard Cubic Feet on May 27 2019
+Query:who is the president of usa
+Bot:Donald Trump of New York is the 45th and current president of the United States
+Query:who is the president of usa
+Bot:Donald Trump of New York is the 45th and current president of the United States
+Query:who is the president of usa
+Bot:Donald Trump of New York is the 45th and current president of the United States
+Query:hi
+Bot:Hello there.
+Query:how are you
+Bot:I am doing very well. How are you  ?
+Query:who is president of usa
+Bot:Donald Trump of New York is the 45th and current president of the United States
+Query:what was the planned production of crude oil yesterday
+Bot:The planned production of crude oil was 3307000 Barrels on Jun 12 2019
+Query:hi
+Bot:Well knowing that anyone in their right mind wouldn t look up Hi in the U
+Query:hello
+Bot:Hi there!
+Query:how are you
+Bot:Fair to partly cloudy.
+Query:what is the time now
+Bot: Thu Jun 13 13:37:46 2019
+Query:hi
+Bot:Hello there.
+Query:hello
+Bot:Hi there!
+Query:how are you
+Bot:My logic and cognitive functions are normal.
+Query:whats time
+Bot:Current local time in United Arab Emirates Dubai Dubai
